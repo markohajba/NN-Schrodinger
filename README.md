@@ -8,7 +8,7 @@ _________________________________________________________________
 We study eigenmode localization for a class of elliptic reaction-diffusion operators. As the prototype model problem we use a family of Schrödinger Hamiltonians parametrized
  by random potentials and study the associated effective confining potential. 
 
-You can expect to find code, data and some of the results inside folders. There are more details inside readme.ipynb
+You can expect to find code, data and some of the results inside folders. There are more details inside corresponding .ipynb files.
 
 *   **Ground_state_VPINN_1D** folder contains jupyter notebook, data and some of the additional results for the problem of calculating the ground state of the Schrödinger equation in 1 dimension using a Certified Deep Ritz method.
 
