@@ -1,10 +1,21 @@
 ## NN-Schrödinger
 
-This repository contains some of the experiments and additional materials for Entropy research paper *Deep neural network model for approximating eigenmodes localized by a 
-confining potential*
-
+This repository contains some of the experiments and additional materials for Entropy research paper 
+*Deep neural network model for approximating eigenmodes localized by a confining potential*
 Authors: Luka Grubišić, Marko Hajba, Domagoj Lacmanović
-_________________________________________________________________
+
+Research paper is accepted as a part of special issue "Human-Centric AI: The Symbiosis of Human and Artificial Intelligence" and it is freely available at:
+https://www.mdpi.com/journal/entropy/special_issues/Human-Centric_AI
+
+Direct link to the paper: https://www.mdpi.com/1099-4300/23/1/95 
+
+If you find this codes usefull in your research, please cite (many options are availes on the links above):
+MDPI and ACS Style
+Grubišić, L.; Hajba, M.; Lacmanović, D. Deep Neural Network Model for Approximating Eigenmodes Localized by a Confining Potential. Entropy 2021, 23, 95.
+
+AMA Style
+Grubišić L, Hajba M, Lacmanović D. Deep Neural Network Model for Approximating Eigenmodes Localized by a Confining Potential. Entropy. 2021; 23(1):95.
+____________________________________________________________________________________________________
 We study eigenmode localization for a class of elliptic reaction-diffusion operators. As the prototype model problem we use a family of Schrödinger Hamiltonians parametrized
  by random potentials and study the associated effective confining potential. 
 
