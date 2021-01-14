@@ -4,7 +4,7 @@ This repository contains some of the experiments and additional materials for En
 *Deep neural network model for approximating eigenmodes localized by a confining potential*
 Authors: Luka Grubišić, Marko Hajba, Domagoj Lacmanović
 
-Research paper is accepted as a part of special issue "Human-Centric AI: The Symbiosis of Human and Artificial Intelligence" and it is freely available at:
+The research paper is accepted as a part of special issue "Human-Centric AI: The Symbiosis of Human and Artificial Intelligence" and it is freely available at:
 https://www.mdpi.com/journal/entropy/special_issues/Human-Centric_AI
 
 Direct link to the paper: https://www.mdpi.com/1099-4300/23/1/95 
