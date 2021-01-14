@@ -9,7 +9,8 @@ https://www.mdpi.com/journal/entropy/special_issues/Human-Centric_AI
 
 Direct link to the paper: https://www.mdpi.com/1099-4300/23/1/95 
 
-If you find this codes usefull in your research, please cite (many options are availes on the links above):
+If you find this codes or paper usefull in your research, please cite (many options are availes on the links above):
+
 MDPI and ACS Style
 
 Grubišić, L.; Hajba, M.; Lacmanović, D. Deep Neural Network Model for Approximating Eigenmodes Localized by a Confining Potential. Entropy 2021, 23, 95.
