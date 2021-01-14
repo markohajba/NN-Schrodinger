@@ -1,15 +1,15 @@
 ## NN-Schrödinger
 
-This repository contains some of the experiments and additional materials for Entropy research paper 
-*Deep neural network model for approximating eigenmodes localized by a confining potential*
+This repository contains some of the experiments and additional materials for a research paper 
+*Deep neural network model for approximating eigenmodes localized by a confining potential* which is accepted to journal Entropy.
 Authors: Luka Grubišić, Marko Hajba, Domagoj Lacmanović
 
-The research paper is accepted as a part of special issue "Human-Centric AI: The Symbiosis of Human and Artificial Intelligence" and it is freely available at:
+The research paper is accepted as a part of the special issue "Human-Centric AI: The Symbiosis of Human and Artificial Intelligence" and it is freely available at:
 https://www.mdpi.com/journal/entropy/special_issues/Human-Centric_AI
 
 Direct link to the paper: https://www.mdpi.com/1099-4300/23/1/95 
 
-If you find this codes or paper usefull in your research, please cite (many options are availes on the links above):
+If you find this codes or paper usefull in your research, please cite (the are other styles available on the links above):
 
 MDPI and ACS Style
 
